@@ -32,4 +32,4 @@ Aditya Jain
 Python with AI – EWB Courses
 
 ## GitHub Repository
-Add your repository link here.
+https://github.com/ADITYA402-make/student-performance-analytics.git
