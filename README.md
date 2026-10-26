@@ -21,7 +21,7 @@ This project is made using Python, Pandas, and NumPy to analyze student performa
 - `main.py` – Main Python program where the whole logic is written
 - `students.csv` – the file which contain the student data
 - `README.md` – this file gives the overall Project information and project overview
-- `Project_Documentation.docx` – Detailed project report
+- `STUDENT PERFORMANCE ANALYTICS SYSTEM.docx` – Detailed project report
 
 ## What I Learned
 While making this project, I learned how to use Python, Pandas, and NumPy to work with data and integrate all these technologies to make some meaningful insight out of this.
